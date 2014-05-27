@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">손전등</string>
+    <string name="no_flash">장치가 LED 손전등를 지원하지 않습니다. 대안으로 화면이 흰색으로 될것입니다</string>
+    <string name="tap_to_disable">손전등을 꺼려면 화면의 아무 곳이나 누릅니다</string>
+    <string name="torch_enabled">손전등 켜짐</string>
+    <string name="tap_to_turn_off">터치하여 끄기</string>
+</resources>
